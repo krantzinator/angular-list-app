@@ -1,6 +1,6 @@
-## angular2-seed
+## A copy of angular2-seed, from Angular
 
-A simple starter project demonstrating the basic concepts of Angular 2.
+Reinforcing my new Angular knowledge.
 
 
 ### Usage
